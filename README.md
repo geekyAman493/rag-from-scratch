@@ -4,15 +4,15 @@
 
 ---
 
-# 🚀 Demo Architecture
+# 🚀 Architecture
 
-> Replace the placeholder below with your generated architecture image.
-
-```markdown
 <p align="center">
-  <img src="assets/rag_architecture.png" alt="RAG Pipeline Architecture" width="100%">
+  <img src="assets/rag_architecture.png" alt="RAG Architecture" width="900"/>
 </p>
-```
+
+<p align="center">
+  <em>End-to-end Retrieval-Augmented Generation (RAG) pipeline using LangChain, Gemini, and ChromaDB.</em>
+</p>
 
 ---
 
