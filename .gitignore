@@ -11,5 +11,4 @@ wheels/
 
 #Environmental variables
 .env 
-
-.chroma_db
+chroma_db/
