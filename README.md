@@ -7,7 +7,7 @@
 # 🚀 Architecture
 
 <p align="center">
-  <img src="assets/rag_architecture.png" alt="RAG Architecture" width="900"/>
+  <img src="rag_architecture.png" alt="RAG Architecture" width="900"/>
 </p>
 
 <p align="center">
